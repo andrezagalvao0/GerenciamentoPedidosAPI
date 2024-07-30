@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7CD870-E0CA-4667-9431-DB406E5505D2}|GerenciamentoPedidos.Application\\GerenciamentoPedidos.Application.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.application\\interfaces\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7CD870-E0CA-4667-9431-DB406E5505D2}|GerenciamentoPedidos.Application\\GerenciamentoPedidos.Application.csproj|solutionrelative:gerenciamentopedidos.application\\interfaces\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7CD870-E0CA-4667-9431-DB406E5505D2}|GerenciamentoPedidos.Application\\GerenciamentoPedidos.Application.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.application\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7CD870-E0CA-4667-9431-DB406E5505D2}|GerenciamentoPedidos.Application\\GerenciamentoPedidos.Application.csproj|solutionrelative:gerenciamentopedidos.application\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E64B129-FABA-4E23-918A-6E7CE8D780FB}|GerenciamentoPedidos.Api\\GerenciamentoPedidos.Api.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E64B129-FABA-4E23-918A-6E7CE8D780FB}|GerenciamentoPedidos.Api\\GerenciamentoPedidos.Api.csproj|solutionrelative:gerenciamentopedidos.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330590A1-1E79-480E-8558-A6A6D4A163C9}|GerenciamentoPedidos.Domain\\GerenciamentoPedidos.Domain.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.domain\\contantes\\responsemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330590A1-1E79-480E-8558-A6A6D4A163C9}|GerenciamentoPedidos.Domain\\GerenciamentoPedidos.Domain.csproj|solutionrelative:gerenciamentopedidos.domain\\contantes\\responsemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB52659-4440-422A-A906-8B51722BF4D7}|GerenciamentoPedidos.Tests\\GerenciamentoPedidos.Tests.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.tests\\services\\pedidoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB52659-4440-422A-A906-8B51722BF4D7}|GerenciamentoPedidos.Tests\\GerenciamentoPedidos.Tests.csproj|solutionrelative:gerenciamentopedidos.tests\\services\\pedidoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330590A1-1E79-480E-8558-A6A6D4A163C9}|GerenciamentoPedidos.Domain\\GerenciamentoPedidos.Domain.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.domain\\entities\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330590A1-1E79-480E-8558-A6A6D4A163C9}|GerenciamentoPedidos.Domain\\GerenciamentoPedidos.Domain.csproj|solutionrelative:gerenciamentopedidos.domain\\entities\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330590A1-1E79-480E-8558-A6A6D4A163C9}|GerenciamentoPedidos.Domain\\GerenciamentoPedidos.Domain.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330590A1-1E79-480E-8558-A6A6D4A163C9}|GerenciamentoPedidos.Domain\\GerenciamentoPedidos.Domain.csproj|solutionrelative:gerenciamentopedidos.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330590A1-1E79-480E-8558-A6A6D4A163C9}|GerenciamentoPedidos.Domain\\GerenciamentoPedidos.Domain.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.domain\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{330590A1-1E79-480E-8558-A6A6D4A163C9}|GerenciamentoPedidos.Domain\\GerenciamentoPedidos.Domain.csproj|solutionrelative:gerenciamentopedidos.domain\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB52659-4440-422A-A906-8B51722BF4D7}|GerenciamentoPedidos.Tests\\GerenciamentoPedidos.Tests.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.tests\\gerenciamentopedidos.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFB52659-4440-422A-A906-8B51722BF4D7}|GerenciamentoPedidos.Tests\\GerenciamentoPedidos.Tests.csproj|solutionrelative:gerenciamentopedidos.tests\\gerenciamentopedidos.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{330590A1-1E79-480E-8558-A6A6D4A163C9}|GerenciamentoPedidos.Domain\\GerenciamentoPedidos.Domain.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.domain\\gerenciamentopedidos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{330590A1-1E79-480E-8558-A6A6D4A163C9}|GerenciamentoPedidos.Domain\\GerenciamentoPedidos.Domain.csproj|solutionrelative:gerenciamentopedidos.domain\\gerenciamentopedidos.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7CD870-E0CA-4667-9431-DB406E5505D2}|GerenciamentoPedidos.Application\\GerenciamentoPedidos.Application.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.application\\gerenciamentopedidos.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC7CD870-E0CA-4667-9431-DB406E5505D2}|GerenciamentoPedidos.Application\\GerenciamentoPedidos.Application.csproj|solutionrelative:gerenciamentopedidos.application\\gerenciamentopedidos.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E64B129-FABA-4E23-918A-6E7CE8D780FB}|GerenciamentoPedidos.Api\\GerenciamentoPedidos.Api.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E64B129-FABA-4E23-918A-6E7CE8D780FB}|GerenciamentoPedidos.Api\\GerenciamentoPedidos.Api.csproj|solutionrelative:gerenciamentopedidos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E64B129-FABA-4E23-918A-6E7CE8D780FB}|GerenciamentoPedidos.Api\\GerenciamentoPedidos.Api.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.api\\gerenciamentopedidos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E64B129-FABA-4E23-918A-6E7CE8D780FB}|GerenciamentoPedidos.Api\\GerenciamentoPedidos.Api.csproj|solutionrelative:gerenciamentopedidos.api\\gerenciamentopedidos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E64B129-FABA-4E23-918A-6E7CE8D780FB}|GerenciamentoPedidos.Api\\GerenciamentoPedidos.Api.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E64B129-FABA-4E23-918A-6E7CE8D780FB}|GerenciamentoPedidos.Api\\GerenciamentoPedidos.Api.csproj|solutionrelative:gerenciamentopedidos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0615007C-0B32-40A7-A2CE-5C4DAEA96CAB}|GerenciamentoPedidos.Infrastructure\\GerenciamentoPedidos.Infrastructure.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.infrastructure\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0615007C-0B32-40A7-A2CE-5C4DAEA96CAB}|GerenciamentoPedidos.Infrastructure\\GerenciamentoPedidos.Infrastructure.csproj|solutionrelative:gerenciamentopedidos.infrastructure\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0615007C-0B32-40A7-A2CE-5C4DAEA96CAB}|GerenciamentoPedidos.Infrastructure\\GerenciamentoPedidos.Infrastructure.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.infrastructure\\gerenciamentopedidos.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0615007C-0B32-40A7-A2CE-5C4DAEA96CAB}|GerenciamentoPedidos.Infrastructure\\GerenciamentoPedidos.Infrastructure.csproj|solutionrelative:gerenciamentopedidos.infrastructure\\gerenciamentopedidos.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0615007C-0B32-40A7-A2CE-5C4DAEA96CAB}|GerenciamentoPedidos.Infrastructure\\GerenciamentoPedidos.Infrastructure.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.infrastructure\\data\\gerenciamentopedidoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0615007C-0B32-40A7-A2CE-5C4DAEA96CAB}|GerenciamentoPedidos.Infrastructure\\GerenciamentoPedidos.Infrastructure.csproj|solutionrelative:gerenciamentopedidos.infrastructure\\data\\gerenciamentopedidoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0615007C-0B32-40A7-A2CE-5C4DAEA96CAB}|GerenciamentoPedidos.Infrastructure\\GerenciamentoPedidos.Infrastructure.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.infrastructure\\configurations\\itempedidoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0615007C-0B32-40A7-A2CE-5C4DAEA96CAB}|GerenciamentoPedidos.Infrastructure\\GerenciamentoPedidos.Infrastructure.csproj|solutionrelative:gerenciamentopedidos.infrastructure\\configurations\\itempedidoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0615007C-0B32-40A7-A2CE-5C4DAEA96CAB}|GerenciamentoPedidos.Infrastructure\\GerenciamentoPedidos.Infrastructure.csproj|c:\\users\\andreza galvao\\documents\\gerenciamentopedidos\\gerenciamentopedidos.infrastructure\\configurations\\pedidoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0615007C-0B32-40A7-A2CE-5C4DAEA96CAB}|GerenciamentoPedidos.Infrastructure\\GerenciamentoPedidos.Infrastructure.csproj|solutionrelative:gerenciamentopedidos.infrastructure\\configurations\\pedidoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Application\\Interfaces\\IPedidoService.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Application\\Interfaces\\IPedidoService.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Application\\Interfaces\\IPedidoService.cs",
+              "RelativeToolTip": "GerenciamentoPedidos.Application\\Interfaces\\IPedidoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T02:42:39.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Domain\\Contantes\\ResponseMessages.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Domain\\Contantes\\ResponseMessages.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Domain\\Contantes\\ResponseMessages.cs",
+              "RelativeToolTip": "GerenciamentoPedidos.Domain\\Contantes\\ResponseMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T00:44:44.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Tests\\Services\\PedidoServiceTests.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Tests\\Services\\PedidoServiceTests.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Tests\\Services\\PedidoServiceTests.cs",
+              "RelativeToolTip": "GerenciamentoPedidos.Tests\\Services\\PedidoServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:16:12.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Api\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Api\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Api\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "GerenciamentoPedidos.Api\\Controllers\\PedidosController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:21:58.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Domain\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Domain\\Entities\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Domain\\Entities\\Pedido.cs",
+              "RelativeToolTip": "GerenciamentoPedidos.Domain\\Entities\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T00:10:46.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemPedido.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Domain\\Entities\\ItemPedido.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Domain\\Entities\\ItemPedido.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Domain\\Entities\\ItemPedido.cs",
+              "RelativeToolTip": "GerenciamentoPedidos.Domain\\Entities\\ItemPedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:34:38.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Application\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Application\\Services\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Application\\Services\\PedidoService.cs",
+              "RelativeToolTip": "GerenciamentoPedidos.Application\\Services\\PedidoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T02:57:30.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Domain\\Interfaces\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Domain\\Interfaces\\IPedidoRepository.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Domain\\Interfaces\\IPedidoRepository.cs",
+              "RelativeToolTip": "GerenciamentoPedidos.Domain\\Interfaces\\IPedidoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:45:23.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GerenciamentoPedidos.Tests",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Tests\\GerenciamentoPedidos.Tests.csproj",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Tests\\GerenciamentoPedidos.Tests.csproj",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Tests\\GerenciamentoPedidos.Tests.csproj",
+              "RelativeToolTip": "GerenciamentoPedidos.Tests\\GerenciamentoPedidos.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-29T13:05:19.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Api\\Program.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Api\\Program.cs",
+              "RelativeToolTip": "GerenciamentoPedidos.Api\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T03:35:12.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GerenciamentoPedidos.Api",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Api\\GerenciamentoPedidos.Api.csproj",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Api\\GerenciamentoPedidos.Api.csproj",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Api\\GerenciamentoPedidos.Api.csproj",
+              "RelativeToolTip": "GerenciamentoPedidos.Api\\GerenciamentoPedidos.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-27T03:32:01.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GerenciamentoPedidos.Domain",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Domain\\GerenciamentoPedidos.Domain.csproj",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Domain\\GerenciamentoPedidos.Domain.csproj",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Domain\\GerenciamentoPedidos.Domain.csproj",
+              "RelativeToolTip": "GerenciamentoPedidos.Domain\\GerenciamentoPedidos.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T13:20:18.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Api\\appsettings.json",
+              "RelativeToolTip": "GerenciamentoPedidos.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T04:00:12.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GerenciamentoPedidos.Application",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Application\\GerenciamentoPedidos.Application.csproj",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Application\\GerenciamentoPedidos.Application.csproj",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Application\\GerenciamentoPedidos.Application.csproj",
+              "RelativeToolTip": "GerenciamentoPedidos.Application\\GerenciamentoPedidos.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-27T00:48:07.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Infrastructure\\Repositories\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Infrastructure\\Repositories\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Infrastructure\\Repositories\\PedidoRepository.cs",
+              "RelativeToolTip": "GerenciamentoPedidos.Infrastructure\\Repositories\\PedidoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:15:07.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GerenciamentoPedidosContext.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Infrastructure\\Data\\GerenciamentoPedidosContext.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Infrastructure\\Data\\GerenciamentoPedidosContext.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Infrastructure\\Data\\GerenciamentoPedidosContext.cs",
+              "RelativeToolTip": "GerenciamentoPedidos.Infrastructure\\Data\\GerenciamentoPedidosContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:49:29.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GerenciamentoPedidos.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Infrastructure\\GerenciamentoPedidos.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Infrastructure\\GerenciamentoPedidos.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Infrastructure\\GerenciamentoPedidos.Infrastructure.csproj",
+              "RelativeToolTip": "GerenciamentoPedidos.Infrastructure\\GerenciamentoPedidos.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T13:47:38.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemPedidoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Infrastructure\\Configurations\\ItemPedidoConfiguration.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Infrastructure\\Configurations\\ItemPedidoConfiguration.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Infrastructure\\Configurations\\ItemPedidoConfiguration.cs",
+              "RelativeToolTip": "GerenciamentoPedidos.Infrastructure\\Configurations\\ItemPedidoConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:05:09.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PedidoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Infrastructure\\Configurations\\PedidoConfiguration.cs",
+              "RelativeDocumentMoniker": "GerenciamentoPedidos.Infrastructure\\Configurations\\PedidoConfiguration.cs",
+              "ToolTip": "C:\\Users\\Andreza Galvao\\Documents\\GerenciamentoPedidos\\GerenciamentoPedidos.Infrastructure\\Configurations\\PedidoConfiguration.cs",
+              "RelativeToolTip": "GerenciamentoPedidos.Infrastructure\\Configurations\\PedidoConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:06:36.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Andreza Galvao\Documents\GerenciamentoPedidos\GerenciamentoPedidos.Infrastructure\bin\Debug\net8.0\GerenciamentoPedidos.Infrastructure.deps.json
+C:\Users\Andreza Galvao\Documents\GerenciamentoPedidos\GerenciamentoPedidos.Infrastructure\bin\Debug\net8.0\GerenciamentoPedidos.Infrastructure.dll
+C:\Users\Andreza Galvao\Documents\GerenciamentoPedidos\GerenciamentoPedidos.Infrastructure\bin\Debug\net8.0\GerenciamentoPedidos.Infrastructure.pdb
+C:\Users\Andreza Galvao\Documents\GerenciamentoPedidos\GerenciamentoPedidos.Infrastructure\bin\Debug\net8.0\GerenciamentoPedidos.Domain.dll
+C:\Users\Andreza Galvao\Documents\GerenciamentoPedidos\GerenciamentoPedidos.Infrastructure\bin\Debug\net8.0\GerenciamentoPedidos.Domain.pdb
+C:\Users\Andreza Galvao\Documents\GerenciamentoPedidos\GerenciamentoPedidos.Infrastructure\obj\Debug\net8.0\GerenciamentoPedidos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Andreza Galvao\Documents\GerenciamentoPedidos\GerenciamentoPedidos.Infrastructure\obj\Debug\net8.0\GerenciamentoPedidos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreza Galvao\Documents\GerenciamentoPedidos\GerenciamentoPedidos.Infrastructure\obj\Debug\net8.0\GerenciamentoPedidos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Andreza Galvao\Documents\GerenciamentoPedidos\GerenciamentoPedidos.Infrastructure\obj\Debug\net8.0\GerenciamentoPedidos.Infrastructure.AssemblyInfo.cs
+C:\Users\Andreza Galvao\Documents\GerenciamentoPedidos\GerenciamentoPedidos.Infrastructure\obj\Debug\net8.0\GerenciamentoPedidos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Andreza Galvao\Documents\GerenciamentoPedidos\GerenciamentoPedidos.Infrastructure\obj\Debug\net8.0\Gerencia.F9A7BAF2.Up2Date
+C:\Users\Andreza Galvao\Documents\GerenciamentoPedidos\GerenciamentoPedidos.Infrastructure\obj\Debug\net8.0\GerenciamentoPedidos.Infrastructure.dll
+C:\Users\Andreza Galvao\Documents\GerenciamentoPedidos\GerenciamentoPedidos.Infrastructure\obj\Debug\net8.0\refint\GerenciamentoPedidos.Infrastructure.dll
+C:\Users\Andreza Galvao\Documents\GerenciamentoPedidos\GerenciamentoPedidos.Infrastructure\obj\Debug\net8.0\GerenciamentoPedidos.Infrastructure.pdb
+C:\Users\Andreza Galvao\Documents\GerenciamentoPedidos\GerenciamentoPedidos.Infrastructure\obj\Debug\net8.0\ref\GerenciamentoPedidos.Infrastructure.dll
