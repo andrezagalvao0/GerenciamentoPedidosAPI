@@ -11,3 +11,6 @@ Construção de API que permite gerenciar pedidos
 - DDD (domain-driven design
 - Testes unitários(NUnit)
 - swagger
+
+# EndPoints
+![image](https://github.com/user-attachments/assets/02e690fd-a2e7-487a-9c57-bd1502daac46)
